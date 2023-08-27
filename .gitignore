@@ -28,19 +28,6 @@
 .idea/**/gradle.xml
 .idea/**/libraries
 
-# Gradle and Maven with auto-import
-# When using Gradle or Maven with auto-import, you should exclude module files,
-# since they will be recreated, and may cause churn.  Uncomment if using
-# auto-import.
-# .idea/artifacts
-# .idea/compiler.xml
-# .idea/jarRepositories.xml
-# .idea/modules.xml
-# .idea/*.iml
-# .idea/modules
-# *.iml
-# *.ipr
-
 # CMake
 cmake-build-*/
 
@@ -239,3 +226,38 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+/allure_results/0fd4e76a-e770-4202-80c2-e6b576aefe3c-result.json
+/allure_results/1db8533a-72b1-4132-b9c3-30500d7d33b0-container.json
+/allure_results/2d91bda9-5c72-463d-84d5-3e067f4d9f0a-container.json
+/allure_results/2eb1192b-6850-4ea3-bee1-0da40b632cac-container.json
+/allure_results/03f2e235-6e5c-4a0c-a4c0-b84d027991ad-container.json
+/allure_results/4b7a9411-1f2a-476d-bcb9-e31ff7ce95c2-container.json
+/allure_results/7a5504b1-9ba9-4319-95b7-bead1ab6142d-container.json
+/allure_results/8f772a1c-e6ea-46ab-bf03-e114cf70383e-container.json
+/allure_results/8fb932fb-2dc8-457a-9121-a3bfafeef9c3-result.json
+/allure_results/9b276b8e-7221-440e-a928-ae52f1ca74f7-container.json
+/allure_results/016ddd24-6a0a-4212-bab3-51aaa7b2e8bb-result.json
+/allure_results/25a8d44c-a595-499b-ae79-a4b8b9853cec-container.json
+/allure_results/39fef419-29cf-4b6a-b7c8-93935884c05d-container.json
+/allure_results/41a7a7f8-cebd-4eb3-ae21-99cfa1159fc6-result.json
+/allure_results/53a38554-8a28-4275-8468-7b789c3b9f7d-container.json
+/allure_results/193f5b7a-9a72-43d2-80d9-94999bfd70d8-result.json
+/allure_results/337dd97e-6f5e-4fc0-a494-23dfc7e540db-container.json
+/allure_results/355a89ca-77b0-495c-97c6-fbadf9d87f6b-result.json
+/allure_results/827cfa55-6c95-4214-9802-7f7d83e7a5a3-result.json
+/allure_results/910fdb22-be44-48d6-a09a-ad7b461c4b8e-container.json
+/allure_results/81750d49-a66f-47e1-bdbe-35a66def1510-result.json
+/allure_results/393622f6-a3c6-4417-abc7-088570e32491-container.json
+/allure_results/a9cd2811-af66-4d53-abcc-96e1a0b21fd0-container.json
+/allure_results/aa9341a0-a13b-43eb-9e10-6be34a2612c4-result.json
+/allure_results/ab5aa871-bcf0-4d75-9d47-c87f598cdab3-container.json
+/allure_results/ae15e68a-4940-4a52-bb06-7768f118a30e-result.json
+/allure_results/ae702ba1-b8dd-4ea3-b708-4c8f8567edee-result.json
+/allure_results/afca4292-d6c5-4e9a-ae74-af8509574e86-container.json
+/allure_results/b0f32ddb-c5df-4659-aafc-7de4035511f9-result.json
+/allure_results/b3493642-3d07-4e47-96b3-c630908a5dbe-container.json
+/allure_results/ce2687f6-d93f-4da6-9290-21564e24377b-container.json
+/allure_results/f45f799c-2e1b-4a3e-96c7-312121369b82-container.json
+/allure_results/facdbe22-5eb3-4a74-9e76-398682e42a7f-container.json
+/allure_results/fc201369-7049-45c1-953e-cb8375f208ca-container.json
+/.idea/Project_sprint4.iml
