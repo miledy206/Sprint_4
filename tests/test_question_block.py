@@ -1,7 +1,7 @@
 import allure
 import pytest
 
-from data import get_question_by_id
+from get_data import get_question_by_id
 from pages.question_block import QuestionBlock
 
 

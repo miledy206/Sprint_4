@@ -1,11 +1,12 @@
 import allure
 
-from data import get_test_data_for_success_order
+from get_data import get_test_data_for_success_order
 from locators.order_page_locators import Buttons, Fields
 from pages.base_page import BasePage
+from pages.main_page import MainPage
 
 
-class OrderPage(BasePage):
+class OrderPage(MainPage):
 
     @allure.step('Нажать на кнопку "Заказать"')
     def click_order_button_main_page(self, select_button):

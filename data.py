@@ -28,11 +28,6 @@ def set_test_data_for_success_order(set_number):
         return set_data
 
 
-def get_test_data_for_success_order(field, set_data):
-    # метод вытаскивания значения для определённого поля в выбранном сете
-    return set_data.get(field)
-
-
 def set_list_of_questions():  # ответы на вопросы, которые нужно проверить
     questions_list = {1: 'Сутки — 400 рублей. Оплата курьеру — наличными или картой.',
                       2: ('Пока что у нас так: один заказ — один самокат. Если хотите покататься с '
@@ -54,13 +49,5 @@ def set_list_of_questions():  # ответы на вопросы, которые
     return questions_list
 
 
-def get_question_by_id(field):
-    # метод вытаскивания ответа для определённого вопроса
-    questions_list = set_list_of_questions()
-
-    return questions_list.get(field)
-
-
-def get_start_url():
-    start_url = 'https://qa-scooter.praktikum-services.ru/'
-    return start_url
+# test data for start URL
+start_url = 'https://qa-scooter.praktikum-services.ru/'

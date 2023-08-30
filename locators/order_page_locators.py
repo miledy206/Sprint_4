@@ -1,5 +1,7 @@
 from selenium.webdriver.common.by import By
-from data import get_test_data_for_success_order
+
+from get_data import get_test_data_for_success_order
+from pages.base_page import BasePage
 
 
 class Buttons:
@@ -13,7 +15,7 @@ class Buttons:
                                                       '"Посмотреть статус"]']
 
 
-class Fields:
+class Fields(BasePage):
     # Поля на первой странице Заказа
     FIND_NAME_FIELD = [By.XPATH, './/input[contains(@placeholder, "Имя")]']
     FIND_SURNAME_FIELD = [By.XPATH, './/input[contains(@placeholder, "Фамилия")]']

@@ -2,9 +2,10 @@ import allure
 
 from locators.question_block_locators import Questions, Answers
 from pages.base_page import BasePage
+from pages.main_page import MainPage
 
 
-class QuestionBlock(BasePage):
+class QuestionBlock(MainPage):
 
     @allure.step('Раскрыть первый вопрос')
     def click_on_question_0(self):

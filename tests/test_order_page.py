@@ -1,7 +1,9 @@
 import allure
 import pytest
+
+from get_data import get_test_data_for_success_order
 from pages.order_page import OrderPage
-from data import get_test_data_for_success_order, set_test_data_for_success_order
+from data import set_test_data_for_success_order
 
 
 class TestOrderScooter:
